@@ -1,0 +1,21 @@
+{
+  "name": "clippers",
+  "description": "Coming soon...",
+  "author": "Ian Severance <hi@ianseverance.com>",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianseverance/clippers.git"
+  },
+  "keywords": [
+    "clipper",
+    "clippers"
+  ],
+  "bugs": {
+    "url": "https://github.com/ianseverance/clippers/issues"
+  },
+  "homepage": "https://github.com/ianseverance/clippers#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
